@@ -1,7 +1,7 @@
 package mavenHello.mavenHello;
 
 /**
- * Hello world!
+ * Hello world!d
  *
  */
 public class App 
