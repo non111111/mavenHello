@@ -5,7 +5,7 @@
   <groupId>com.non111111.app</groupId>
   <artifactId>mavenHello</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>mavenHello</name>
   <url>http://maven.apache.org</url>
