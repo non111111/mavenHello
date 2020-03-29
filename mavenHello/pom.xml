@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>mavenHello</name>
+  <name>mavenHello2</name>
   <url>http://maven.apache.org</url>
 
     <properties>
